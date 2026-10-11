@@ -1,0 +1,16 @@
+WEB AMCA STUDIO - copia de respaldo
+
+Contenido:
+- index.html : la pagina completa (textos, precios, diseno).
+- fotos/     : fotos optimizadas para la web.
+- videos/    : reels en MP4 (720p) y sus portadas.
+
+Para ver la pagina en tu computador: abre index.html con Chrome.
+
+Para cambiar un texto o un precio tu misma en GitHub:
+1. Entra a tu repositorio en github.com y abre index.html.
+2. Haz clic en el icono del lapiz (Edit this file).
+3. Busca el texto con Ctrl+F, cambialo y pulsa "Commit changes".
+4. En 1 o 2 minutos la web publicada se actualiza sola.
+
+Para fotos nuevas, cambios de diseno o videos: pidele a Claude que lo haga.
